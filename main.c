@@ -82,3 +82,4 @@ int	main(void)
 		/*test_bonus(file_names);*/
 	return (0);
 }
+// https://stackoverflow.com/questions/2242901/create-array-of-pointers-to-files
